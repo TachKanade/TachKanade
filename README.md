@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About This</h3>
+<h3 align="left">👩‍💻  About</h3>
 
 ###
 
@@ -38,9 +38,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/TachKanade/TachKanade/output/snake.svg" alt="Snake animation" />
 
