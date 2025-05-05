@@ -40,7 +40,23 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TachKanade/TachKanade/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <picture>
+      <source
+    media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+      />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/TachKanade/TachKanade/output/github-contribution-grid-snake.svg"
+      />
+    <img
+      alt="Snake"
+      src="https://raw.githubusercontent.com/TachKanade/TachKanade/output/github-contribution-grid-snake.svg"
+      />
+  </picture>
+
+</div>
 
 ###
 
