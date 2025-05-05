@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About</h3>
+<h3 align="left">👩‍💻  About This</h3>
 
 ###
 
@@ -40,23 +40,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <picture>
-      <source
-    media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-      />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/TachKanade/TachKanade/output/github-contribution-grid-snake.svg"
-      />
-    <img
-      alt="Snake"
-      src="https://raw.githubusercontent.com/TachKanade/TachKanade/output/github-contribution-grid-snake.svg"
-      />
-  </picture>
-
-</div>
+<img src="https://raw.githubusercontent.com/TachKanade/TachKanade/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -70,7 +54,7 @@
   <a href="https://t.me/yuikawaiiinfo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="https://wa.me/62856438252559" target="_blank">
+  <a href="https://wa.me/62856438152559" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
   <a href="https://x.com/bot_yuikawaii?t=5KhoX4OiaiyiC2uS-msDgg&s=09" target="_blank">
