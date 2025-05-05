@@ -27,12 +27,6 @@ Github ini dipergunakan juga sebagai info official dari Yui Kawaii juga ya!
 
 ---
 
-### Contribution
-
-<img src="https://raw.githubusercontent.com/TachKanade/TachKanade/output/snake.svg" alt="Snake animation" width="100%" />
-
----
-
 ### 🌐 Find Me on Social Media
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100088434793236&mibextid=eBUYbo" target="_blank">
