@@ -1,28 +1,17 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/129074605?v=4"  />
+  <img height="150" src="https://avatars.githubusercontent.com/u/129074605?v=4" alt="TachKanade avatar" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TachKanade.TachKanade&"  />
-</div>
+### 👩‍💻 About This
 
-###
+Grim, Developer dari Yui Kawaii - Project Kanade.  
+Github ini dipergunakan juga sebagai info official dari Yui Kawaii juga ya!
 
-<h3 align="left">👩‍💻  About This</h3>
+---
 
-###
-
-<br clear="both">
-
-<p align="left">Grim, Developer dari Yui Kawaii - Project Kanade. <br><br>Github ini dipergunakan juga <br>sebagai info official dari Yui Kawaii juga ya!</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🛠 Language and tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
@@ -36,14 +25,15 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="40" alt="raspberrypi logo"  />
 </div>
 
-###
+---
 
-<br clear="both">
+### Contribution
 
-<img src="https://raw.githubusercontent.com/TachKanade/TachKanade/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TachKanade/TachKanade/output/snake.svg" alt="Snake animation" width="100%" />
 
-###
+---
 
+### 🌐 Find Me on Social Media
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100088434793236&mibextid=eBUYbo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
@@ -61,5 +51,3 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
-
-###
