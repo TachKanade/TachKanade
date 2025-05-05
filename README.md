@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/129074605?v=4"  />
+  <img height="250" src="https://avatars.githubusercontent.com/u/129074605?v=4"  />
 </div>
 
 ###
@@ -10,7 +10,17 @@
 
 ###
 
-<h3 align="left">👩‍💻  About This</h3>
+<h3 align="left">👩‍💻  About</h3>
+
+###
+
+<br clear="both">
+
+<p align="left">Grim, Developer dari Yui Kawaii - Project Kanade. <br><br>Github ini dipergunakan juga <br>sebagai info official dari Yui Kawaii juga ya!</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -28,13 +38,7 @@
 
 ###
 
-<br clear="both">
-
-<p align="left">Grim, Developer dari Yui Kawaii - Project Kanade. <br><br>Github ini dipergunakan juga <br>sebagai info official dari Yui Kawaii juga ya!</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🌐 Find Me on Social Media</h3>
 
 ###
 
